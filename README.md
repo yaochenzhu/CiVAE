@@ -14,7 +14,7 @@ This is a joint work with LinkedIn. Inc and UVA Vast Lab.
 
 The LinkedIn dataset used in the main paper is currently proprietary.
 
-We are trying to applying for the permission to share the data.
+We are applying for the permission to share the data.
 
 ## Code usage
 
