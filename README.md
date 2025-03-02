@@ -10,7 +10,7 @@ This is a joint work with LinkedIn. Inc and UVA Vast Lab.
 - Pytorch
 - Pyro
 
-## Usage
+## Code usage
 
 See run.py
 
