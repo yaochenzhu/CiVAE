@@ -10,5 +10,3 @@
 - Python
 - Pytorch
 - Pyro
-
-## See run.py for model running.
