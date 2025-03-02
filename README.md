@@ -1,5 +1,6 @@
 # CiVAE: Confounder-identifiable VAE
 
+ICLR 2025 Paper: Causal Effect Estimation with Mixed Latent Confounders and Post-treatment Variables
 
 ## Environment
 
