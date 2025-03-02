@@ -8,6 +8,10 @@ ICLR 2025 Paper: Causal Effect Estimation with Mixed Latent Confounders and Post
 - Pytorch
 - Pyro
 
+## Usage
+
+See run.py
+
 ## Reference
 
 >**Causal Effect Estimation with Mixed Latent Confounders and Post-treatment Variables,**    
