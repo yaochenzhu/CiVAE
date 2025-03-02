@@ -2,7 +2,7 @@
 
 ICLR 2025 Paper: Causal Effect Estimation with Mixed Latent Confounders and Post-treatment Variables
 
-This is a joint work with LinkedIn. Inc and UVA Vast Lab
+This is a joint work with LinkedIn. Inc and UVA Vast Lab.
 
 ## Environment
 
